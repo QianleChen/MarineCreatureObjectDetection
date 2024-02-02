@@ -1,7 +1,7 @@
 # MarineCreatureObjectDetection
 
 Result from YoloV8 on the same video clip.
-https://github.com/QianleChen/MarineCreatureObjectDetection/assets/158621696/547f13f0-d329-43cb-b74e-d1f203b5edc5
+![YoloV8](https://github.com/QianleChen/MarineCreatureObjectDetection/assets/158621696/547f13f0-d329-43cb-b74e-d1f203b5edc5)
 
 
 
