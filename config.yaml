@@ -1,0 +1,12 @@
+
+
+path: /Users/qiantaichen/Desktop/HarmonyWithNature/data
+train: images/train
+
+# Validation set
+val: images/val
+
+
+
+names:
+  0: jellyfish
